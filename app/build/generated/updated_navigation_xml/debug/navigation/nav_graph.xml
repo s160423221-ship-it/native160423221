@@ -1,0 +1,38 @@
+<navigation
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/nav_graph"
+app:startDestination="@id/loginFragment" >
+<fragment
+    android:id="@+id/loginFragment"
+    android:name="com.example.habittracker.ui.LoginFragment"
+    android:label="@string/login_title" >
+
+    <action
+        android:id="@+id/action_loginFragment_to_dashboardFragment"
+        app:destination="@id/dashboardFragment" />
+
+</fragment>
+<fragment
+    android:id="@+id/dashboardFragment"
+    android:name="com.example.habittracker.ui.DashboardFragment"
+    android:label="@string/dashboard_title" >
+
+    <action
+        android:id="@+id/action_dashboardFragment_to_newHabitFragment"
+        app:destination="@id/newHabitFragment" />
+
+</fragment>
+<fragment
+    android:id="@+id/newHabitFragment"
+    android:name="com.example.habittracker.ui.NewHabitFragment"
+    android:label="@string/new_habit" >
+
+    <action
+        android:id="@+id/action_newHabitFragment_to_dashboardFragment"
+        app:destination="@id/dashboardFragment"
+        app:popUpTo="@id/dashboardFragment"
+        app:popUpToInclusive="true" />
+
+</fragment>
+</navigation>

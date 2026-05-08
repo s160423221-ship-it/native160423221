@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="login_title">Habit Tracker</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="username">Username*</string>
+    <string name="password">Password*</string>
+    <string name="login">Login</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="new_habit">Create New Habit</string>
+    <string name="new_habit_form_title">Add a New Habit</string>
+    <string name="create_habit">Create Habit</string>
+    <string name="habit_name">Habit Name*</string>
+    <string name="habit_description">Short Description*</string>
+    <string name="habit_goal">Goal*</string>
+    <string name="habit_unit">Unit*</string>
+    <string name="goal_helper">How many to complete this task?</string>
+    <string name="unit_helper">e.g. glasses, minutes, pages, meals</string>
+    <string name="select_icon">Select Icon*</string>
+    <string name="progress">Progress</string>
+    <string name="progress_status_in_progress">In Progress</string>
+    <string name="progress_status_completed">Completed</string>
+    <string name="increment">+</string>
+    <!-- Use a standard hyphen-minus instead of a unicode minus sign to ensure consistent rendering -->
+    <string name="decrement">-</string>
+    <string name="invalid_credentials">Invalid username or password</string>
+    <string name="invalid_input_message">Please fill all fields with valid values</string>
+    <string name="icon_content_description">Habit icon</string>
+    <string name="back">Back</string>
+    <string name="card_progress_format">%1$d / %2$d %3$s</string>
+</resources>

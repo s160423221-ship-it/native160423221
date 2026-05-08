@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="badge_gray">#EFEFF3</color>
+    <color name="badge_green">#84C77A</color>
+    <color name="badge_green_text">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="button_gray">#EFEFF3</color>
+    <color name="button_gray_text">#91919A</color>
+    <color name="icon_background">#F1EEF9</color>
+    <color name="input_stroke">#E3E3E8</color>
+    <color name="progress_green">#72BE6C</color>
+    <color name="progress_purple">#6C2CF6</color>
+    <color name="purple_500">#6C2CF6</color>
+    <color name="purple_700">#5721D4</color>
+    <color name="screen_background">#F5F5F7</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="text_primary">#1E1E1E</color>
+    <color name="text_secondary">#7E7E86</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Habit Tracker</string>
+    <string name="back">Back</string>
+    <string name="card_progress_format">%1$d / %2$d %3$s</string>
+    <string name="create_habit">Create Habit</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="decrement">-</string>
+    <string name="goal_helper">How many to complete this task?</string>
+    <string name="habit_description">Short Description*</string>
+    <string name="habit_goal">Goal*</string>
+    <string name="habit_name">Habit Name*</string>
+    <string name="habit_unit">Unit*</string>
+    <string name="icon_content_description">Habit icon</string>
+    <string name="increment">+</string>
+    <string name="invalid_credentials">Invalid username or password</string>
+    <string name="invalid_input_message">Please fill all fields with valid values</string>
+    <string name="login">Login</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="login_title">Habit Tracker</string>
+    <string name="new_habit">Create New Habit</string>
+    <string name="new_habit_form_title">Add a New Habit</string>
+    <string name="password">Password*</string>
+    <string name="progress">Progress</string>
+    <string name="progress_status_completed">Completed</string>
+    <string name="progress_status_in_progress">In Progress</string>
+    <string name="select_icon">Select Icon*</string>
+    <string name="unit_helper">e.g. glasses, minutes, pages, meals</string>
+    <string name="username">Username*</string>
+    <style name="Theme.HabitTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-mergeDebugResources-48:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-mergeDebugResources-48:\\layout\\fragment_new_habit.xml",
+        "source": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-main-51:\\layout\\fragment_new_habit.xml"
+    },
+    {
+        "merged": "com.example.habittracker.app-mergeDebugResources-48:/layout/item_habit.xml",
+        "source": "com.example.habittracker.app-main-51:/layout/item_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-mergeDebugResources-48:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-main-51:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-mergeDebugResources-48:\\layout\\item_habit.xml",
+        "source": "C:\\Users\\alwib\\.gradle\\daemon\\8.13\\com.example.habittracker.app-main-51:\\layout\\item_habit.xml"
+    }
+]

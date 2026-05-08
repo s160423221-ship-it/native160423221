@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6C2CF6</color>
+    <color name="purple_700">#5721D4</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="screen_background">#F5F5F7</color>
+    <color name="text_primary">#1E1E1E</color>
+    <color name="text_secondary">#7E7E86</color>
+    <color name="input_stroke">#E3E3E8</color>
+    <color name="badge_gray">#EFEFF3</color>
+    <color name="badge_green">#84C77A</color>
+    <color name="badge_green_text">#FFFFFF</color>
+    <color name="progress_green">#72BE6C</color>
+    <color name="progress_purple">#6C2CF6</color>
+    <color name="button_gray">#EFEFF3</color>
+    <color name="button_gray_text">#91919A</color>
+    <color name="icon_background">#F1EEF9</color>
+</resources>
